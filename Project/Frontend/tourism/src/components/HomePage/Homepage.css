@@ -1,0 +1,45 @@
+.rr{
+    text-align: center;
+    color: navy ;
+    font-size: 60px;
+    font-family: cursive;
+    font-weight: bold;
+    text-shadow: paleturquoise 5px 5px;
+    background-image: url('12.jpg');
+}
+
+.g{
+    color: white;
+    text-align: center;
+    
+    
+}
+.logo{
+    width: 80px;
+    height: 80px;
+}
+
+.row{
+    display: flex;
+    margin-bottom: 30px;
+}
+.column{
+    flex: 33.33%;
+  padding: 5px;
+}
+
+.firstslide{
+    margin-bottom: 350px;
+}
+.h1{
+    color: black;
+    font-size: 80px;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+.h2{
+    text-shadow: palevioletred 5px 5px;
+    color: black;
+    font-size: 60px;
+    font-style: italic;
+}
